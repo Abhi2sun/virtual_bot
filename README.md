@@ -5,6 +5,9 @@ A lightweight voice-based desktop assistant built using Python, Eel (for web UI)
 Supports text and voice input/output, application launching, YouTube playback, and conversational chat with switchable models.
 
 ---
+## UI INTERFACE
+![part2](www/assets/img/part2.JPG)
+---
 
 ## 🚀 Features
 
